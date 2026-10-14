@@ -1,0 +1,149 @@
+{
+  "title": "S&P 500 Drawdowns Since 1999",
+  "subtitle": "Worst falls for today's S&P 500 and for all 500 stocks of 1999",
+  "id": "KAGGLE_USERNAME/sp500-drawdowns-since-1999",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "finance",
+    "investing",
+    "time series analysis"
+  ],
+  "description": "Two tables built from daily adjusted closes with dividends reinvested, January 4, 1999 to October 13, 2026.\n\ndrawdowns-since-1999.csv covers the 343 current S&P 500 members that traded in 1999. 317 of them fell 50% or more at least once. The median worst fall was 71%, against 55% for the index. 303 recovered with a median trip of 5.8 years, and 40 have not made it back.\n\ndrawdowns-1999-class.csv covers all 500 stocks in the S&P 500 on January 4, 1999, including the 271 that stopped trading. 179 are still in the index, 50 left and still trade, 238 left through a buyout or merger, and 33 went bankrupt. Between 74% and 80% fell by half, and between 36% and 41% never got back to the high before their worst fall. Stocks that left use quarterly high and low prices from SEC filings, which is why those figures are ranges.\n\nWrite-up and charts at https://portfolioautopsy.pages.dev/research/drawdowns-since-1999. The tables hold derived statistics only, no raw prices.",
+  "resources": [
+    {
+      "path": "drawdowns-since-1999.csv",
+      "description": "One row per stock",
+      "schema": {
+        "fields": [
+          {
+            "name": "ticker",
+            "description": "Yahoo Finance symbol",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "description": "Company name",
+            "type": "string"
+          },
+          {
+            "name": "sector",
+            "description": "Sector name",
+            "type": "string"
+          },
+          {
+            "name": "first_date",
+            "description": "First trading day in the window",
+            "type": "datetime"
+          },
+          {
+            "name": "worst_drop_pct",
+            "description": "Largest fall from a running high, percent",
+            "type": "number"
+          },
+          {
+            "name": "peak",
+            "description": "Date of the high before the worst fall",
+            "type": "datetime"
+          },
+          {
+            "name": "trough",
+            "description": "Date of the low of the worst fall",
+            "type": "datetime"
+          },
+          {
+            "name": "recovered",
+            "description": "First date back above that peak, blank if not yet",
+            "type": "datetime"
+          },
+          {
+            "name": "years_peak_to_recovery",
+            "description": "Years from peak to recovery",
+            "type": "number"
+          },
+          {
+            "name": "now_vs_high_pct",
+            "description": "Distance from the running high on Oct 13 2026, percent",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "path": "drawdowns-1999-class.csv",
+      "description": "One row per stock in the S&P 500 on January 4, 1999",
+      "schema": {
+        "fields": [
+          {
+            "name": "record",
+            "description": "Ticker in the fja05680 membership data; a -YYYYMM suffix marks the month the ticker ended",
+            "type": "string"
+          },
+          {
+            "name": "company",
+            "description": "Company name in 1999",
+            "type": "string"
+          },
+          {
+            "name": "fate",
+            "description": "In the S&P 500, Left the index still trades, Bought out or merged, Bankrupt",
+            "type": "string"
+          },
+          {
+            "name": "fate_month",
+            "description": "Month the stock stopped trading or filed for bankruptcy",
+            "type": "string"
+          },
+          {
+            "name": "acquirer_or_current_ticker",
+            "description": "Buyer and deal terms, or current ticker",
+            "type": "string"
+          },
+          {
+            "name": "worst_fall_pct",
+            "description": "Worst fall in percent",
+            "type": "number"
+          },
+          {
+            "name": "measured_from",
+            "description": "Basis of the worst fall",
+            "type": "string"
+          },
+          {
+            "name": "fell_by_half",
+            "description": "yes, no, borderline or unknown",
+            "type": "string"
+          },
+          {
+            "name": "back_above_old_high",
+            "description": "Climbed back above the high before its worst fall",
+            "type": "string"
+          },
+          {
+            "name": "years_to_recover",
+            "description": "Years from peak to recovery, daily-price stocks",
+            "type": "number"
+          },
+          {
+            "name": "now_vs_high_pct",
+            "description": "Distance from the running high on Oct 13 2026",
+            "type": "number"
+          },
+          {
+            "name": "note",
+            "description": "Gaps, adjustments and judgment calls",
+            "type": "string"
+          },
+          {
+            "name": "source",
+            "description": "Filing or page behind the row",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}

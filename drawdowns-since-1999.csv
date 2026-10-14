@@ -1,0 +1,344 @@
+ticker,name,sector,first_date,worst_drop_pct,peak,trough,recovered,years_peak_to_recovery,now_vs_high_pct
+AKAM,Akamai Technologies,Information Technology,1999-10-29,-99.8,1999-12-31,2002-10-07,,,-69.5
+SBAC,SBA Communications,Real Estate,1999-06-16,-99.6,2000-06-29,2002-10-14,2012-06-26,12.0,-49.3
+AIG,American International Group,Financials,1999-01-04,-99.6,2000-12-08,2009-03-05,,,-93.6
+CIEN,Ciena,Information Technology,1999-01-04,-99.5,2000-10-20,2009-02-23,,,-61.7
+BKNG,Booking Holdings,Consumer Discretionary,1999-03-31,-99.3,1999-04-30,2002-10-09,2013-09-10,14.4,-31.5
+GLW,Corning Inc.,Information Technology,1999-01-04,-99.0,2000-09-01,2002-10-08,2025-09-10,25.0,-41.8
+AMT,American Tower,Real Estate,1999-01-04,-98.7,2000-03-10,2002-10-09,2011-02-10,10.9,-30.0
+AES,AES Corporation,Utilities,1999-01-04,-98.7,2000-10-02,2002-10-16,,,-65.8
+INCY,Incyte,Health Care,1999-01-04,-98.5,2000-02-25,2009-03-09,2017-03-10,17.0,-28.8
+VRSN,Verisign,Information Technology,1999-01-04,-98.4,2000-02-29,2002-10-08,2019-07-03,19.3,-2.4
+MU,Micron Technology,Information Technology,1999-01-04,-98.2,2000-07-14,2008-11-20,2022-01-04,21.5,-21.4
+FITB,Fifth Third Bancorp,Financials,1999-01-04,-98.1,2002-04-12,2009-02-20,2021-04-29,19.0,-14.7
+MGM,MGM Resorts,Consumer Discretionary,1999-01-04,-98.1,2007-10-09,2009-03-05,,,-68.8
+WMB,Williams Companies,Energy,1999-01-04,-98.0,1999-06-08,2002-07-25,2012-03-20,12.8,-4.8
+C,Citigroup,Financials,1999-01-04,-98.0,2006-12-27,2009-03-05,,,-66.6
+FFIV,"F5, Inc.",Information Technology,1999-06-04,-97.6,1999-11-18,2001-04-04,2010-07-15,10.7,-0.7
+CCI,Crown Castle,Real Estate,1999-01-04,-97.5,2000-03-03,2002-08-12,2007-10-26,7.6,-51.5
+TER,Teradyne,Information Technology,1999-01-04,-97.3,2000-04-28,2008-11-20,2020-11-16,20.6,-21.4
+PWR,Quanta Services,Industrials,1999-01-04,-97.1,2000-06-16,2002-10-07,2020-10-15,20.3,-12.3
+APA,APA Corporation,Energy,1999-01-04,-96.7,2008-05-20,2020-04-01,,,-54.1
+AMD,Advanced Micro Devices,Information Technology,1999-01-04,-96.6,2000-06-21,2015-07-27,2020-01-02,19.5,-6.8
+FLEX,Flex Ltd.,Information Technology,1999-01-04,-96.4,2000-09-06,2008-11-20,2024-05-28,23.7,-31.6
+HIG,Hartford (The),Financials,1999-01-04,-96.3,2007-05-22,2009-03-06,2022-04-13,14.9,-9.5
+NTAP,NetApp,Information Technology,1999-01-04,-96.2,2000-10-20,2002-10-08,2024-05-21,23.6,-0.1
+SWKS,Skyworks Solutions,Information Technology,1999-01-04,-96.1,2000-02-25,2002-07-31,2014-12-22,14.8,-55.5
+F,Ford Motor Company,Consumer Discretionary,1999-01-04,-95.5,1999-05-03,2008-11-19,2021-11-04,22.5,-34.8
+HBAN,Huntington Bancshares,Financials,1999-01-04,-95.3,2006-12-15,2009-03-06,2021-02-24,14.2,-18.6
+PTC,PTC Inc.,Information Technology,1999-01-04,-95.0,1999-12-16,2002-10-10,2018-04-17,18.3,-10.4
+DVN,Devon Energy,Energy,1999-01-04,-94.9,2008-05-20,2020-03-18,,,-34.6
+JBL,Jabil,Information Technology,1999-01-04,-94.9,2000-09-08,2009-03-09,2021-03-31,20.6,-17.5
+TXT,Textron,Industrials,1999-01-04,-94.7,2007-12-07,2009-03-06,2018-06-08,10.5,-26.1
+MOS,Mosaic Company (The),Materials,1999-01-04,-94.7,2008-06-17,2020-03-18,,,-83.3
+PCG,PG&E Corporation,Utilities,1999-01-04,-94.6,2017-09-11,2019-10-28,,,-80.8
+AMZN,Amazon,Consumer Discretionary,1999-01-04,-94.4,1999-12-10,2001-09-28,2009-10-23,9.9,-8.9
+LEN,Lennar,Consumer Discretionary,1999-01-04,-94.3,2005-07-28,2008-11-21,2017-11-20,12.3,-58.1
+MSI,Motorola Solutions,Information Technology,1999-01-04,-93.6,2000-03-06,2009-03-06,2019-06-19,19.3,-9.1
+BAC,Bank of America,Financials,1999-01-04,-93.4,2007-10-05,2009-03-06,2021-05-06,13.6,-16.3
+A,Agilent Technologies,Health Care,1999-11-18,-93.2,2000-03-06,2002-10-10,2020-08-03,20.4,-1.9
+HAL,Halliburton,Energy,1999-01-04,-93.0,2014-07-23,2020-03-18,,,-44.2
+RF,Regions Financial Corporation,Financials,1999-01-04,-92.6,2006-10-13,2009-02-04,2024-08-28,17.9,-15.8
+FCX,Freeport-McMoRan,Materials,1999-01-04,-92.4,2011-01-12,2016-01-13,2022-03-01,11.1,-9.4
+PHM,PulteGroup,Consumer Discretionary,1999-01-04,-92.4,2005-07-28,2011-10-03,2020-01-21,14.5,-23.9
+RVTY,Revvity,Health Care,1999-01-04,-92.4,2000-10-31,2002-10-17,2015-03-18,14.4,-21.8
+CDNS,Cadence Design Systems,Information Technology,1999-01-04,-92.2,1999-01-12,2008-12-15,2017-05-23,18.4,-19.7
+JCI,Johnson Controls,Industrials,1999-01-04,-86.8,2001-01-30,2002-07-25,2014-01-15,13.0,-1.4
+URI,United Rentals,Industrials,1999-01-04,-91.9,2006-05-09,2009-03-09,2012-01-26,5.7,-9.0
+REGN,Regeneron Pharmaceuticals,Health Care,1999-01-04,-91.8,2000-02-29,2005-04-14,2011-04-27,11.2,-36.7
+VRTX,Vertex Pharmaceuticals,Health Care,1999-01-04,-91.8,2000-11-02,2003-11-11,2014-07-02,13.7,-13.0
+EQT,EQT Corporation,Energy,1999-01-04,-91.5,2014-05-02,2020-02-26,2025-05-09,11.0,-19.4
+DVA,DaVita,Health Care,1999-01-04,-90.8,1999-01-04,2000-03-21,2003-07-16,4.5,-24.4
+CMS,CMS Energy,Utilities,1999-01-04,-90.8,1999-01-05,2003-03-11,2014-04-08,15.3,-15.7
+IP,International Paper,Materials,1999-01-04,-90.6,2000-01-07,2009-03-06,2013-01-02,13.0,-42.9
+FIX,Comfort Systems USA,Industrials,1999-01-04,-90.6,1999-07-08,2003-04-16,2013-07-22,14.0,-21.2
+CCL,Carnival Corporation,Consumer Discretionary,1999-01-04,-90.4,2018-01-29,2022-10-10,,,-59.1
+COF,Capital One,Financials,1999-01-04,-90.2,2006-03-10,2009-03-06,2014-06-09,8.2,-22.3
+WDC,Western Digital,Information Technology,1999-01-04,-90.0,1999-01-13,2001-09-27,2006-01-09,7.0,-49.0
+NVDA,Nvidia,Information Technology,1999-01-22,-89.7,2002-01-03,2002-10-09,2006-11-13,4.9,-4.5
+RCL,Royal Caribbean Group,Consumer Discretionary,1999-01-04,-89.5,2004-12-28,2009-03-02,2014-01-30,9.1,-21.3
+CSCO,Cisco,Information Technology,1999-01-04,-89.3,2000-03-27,2002-10-08,2021-08-24,21.4,-10.8
+BSX,Boston Scientific,Health Care,1999-01-04,-89.1,2004-04-05,2012-07-26,2021-08-02,17.3,-60.0
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,1999-01-04,-89.0,2006-01-11,2008-11-20,2011-03-31,5.2,-4.7
+DHI,D. R. Horton,Consumer Discretionary,1999-01-04,-88.8,2005-07-20,2008-11-21,2017-07-07,12.0,-29.6
+MAS,Masco,Industrials,1999-01-04,-88.8,2005-02-04,2009-03-09,2015-07-28,10.5,-15.7
+VTRS,Viatris,Health Care,1999-01-04,-88.7,2015-04-24,2025-04-10,,,-71.6
+OXY,Occidental Petroleum,Energy,1999-01-04,-88.4,2011-05-02,2020-10-28,,,-13.5
+CNP,CenterPoint Energy,Utilities,1999-01-04,-88.4,2001-05-01,2002-07-24,2012-07-13,11.2,-12.1
+MS,Morgan Stanley,Financials,1999-01-04,-88.1,2000-09-11,2008-11-20,2020-11-24,20.2,-17.9
+LRCX,Lam Research,Information Technology,1999-01-04,-87.9,2000-04-07,2002-10-09,2006-11-20,6.6,-30.5
+SLB,Schlumberger,Energy,1999-01-04,-87.7,2014-06-30,2020-03-18,,,-42.1
+TRMB,Trimble Inc.,Information Technology,1999-01-04,-87.2,2000-07-18,2002-10-07,2005-07-19,5.0,-37.4
+KEY,KeyCorp,Financials,1999-01-04,-87.1,2007-02-22,2009-06-03,2022-01-07,14.9,-16.3
+STLD,Steel Dynamics,Materials,1999-01-04,-87.0,2008-06-19,2008-11-20,2016-11-14,8.4,-14.5
+HST,Host Hotels & Resorts,Real Estate,1999-01-04,-87.0,2007-02-13,2009-03-05,2014-12-03,7.8,-8.3
+COO,Cooper Companies (The),Health Care,1999-01-04,-86.9,2005-03-07,2008-11-20,2012-04-05,7.1,-52.1
+DD,DuPont,Industrials,1999-01-04,-86.8,2005-03-04,2009-03-09,2013-10-17,8.6,-15.1
+SCHW,Charles Schwab Corporation,Financials,1999-01-04,-86.8,1999-04-13,2003-03-11,2017-01-04,17.7,-15.6
+QCOM,Qualcomm,Information Technology,1999-01-04,-86.8,2000-01-03,2002-08-05,2014-03-18,14.2,-28.9
+TYL,Tyler Technologies,Information Technology,1999-01-04,-86.0,2000-04-07,2001-03-06,2003-11-04,3.6,-46.3
+EL,Estée Lauder Companies (The),Consumer Staples,1999-01-04,-85.8,2022-01-04,2025-04-08,,,-71.1
+TXN,Texas Instruments,Information Technology,1999-01-04,-85.8,2000-03-03,2002-10-09,2016-11-22,16.7,-12.9
+KIM,Kimco Realty,Real Estate,1999-01-04,-85.7,2007-02-21,2009-03-30,2022-04-19,15.2,-13.9
+GE,GE Aerospace,Industrials,1999-01-04,-85.5,2000-08-28,2009-03-05,2024-04-23,23.7,-19.2
+AMAT,Applied Materials,Information Technology,1999-01-04,-85.2,2000-04-07,2008-11-20,2017-05-31,17.1,-35.7
+PLD,Prologis,Real Estate,1999-01-04,-84.7,2007-10-11,2009-03-06,2016-06-03,8.6,-11.4
+CI,Cigna,Health Care,1999-01-04,-84.3,2008-01-09,2008-11-21,2013-01-17,5.0,-19.8
+ORCL,Oracle Corporation,Information Technology,1999-01-04,-84.2,2000-09-01,2002-06-03,2014-12-18,14.3,-55.8
+AXP,American Express,Financials,1999-01-04,-83.9,2007-07-19,2009-03-06,2012-04-27,4.8,-18.5
+ALB,Albemarle Corporation,Materials,1999-01-04,-83.9,2022-11-11,2025-04-08,,,-68.3
+IVZ,Invesco,Financials,1999-01-04,-83.9,2000-11-03,2003-03-12,2014-04-01,13.4,-13.2
+KLAC,KLA Corporation,Information Technology,1999-01-04,-83.7,2000-04-07,2008-11-19,2014-09-17,14.4,-39.0
+BKR,Baker Hughes,Energy,1999-01-04,-83.6,2007-10-16,2020-03-23,2025-09-23,17.9,-18.5
+ADI,Analog Devices,Information Technology,1999-01-04,-82.9,2000-09-01,2008-12-01,2016-11-25,16.2,-6.7
+HPQ,HP Inc.,Information Technology,1999-01-04,-82.9,2000-07-13,2002-10-09,2018-01-12,17.5,-14.9
+AFL,Aflac,Financials,1999-01-04,-82.7,2008-04-28,2009-03-09,2013-07-19,5.2,-9.7
+EBAY,eBay Inc.,Consumer Discretionary,1999-01-04,-82.6,2004-12-30,2009-03-09,2014-03-04,9.2,-1.6
+STT,State Street Corporation,Financials,1999-01-04,-82.3,2008-01-03,2009-01-20,2014-12-03,6.9,-9.9
+INTC,Intel,Information Technology,1999-01-04,-82.2,2000-08-31,2002-10-08,2018-03-06,17.5,-27.0
+SBUX,Starbucks,Consumer Discretionary,1999-01-04,-81.9,2006-05-05,2008-11-20,2011-06-28,5.1,-17.5
+AAPL,Apple Inc.,Information Technology,1999-01-04,-81.8,2000-03-22,2003-04-17,2005-01-26,4.8,0.0
+MCK,McKesson Corporation,Health Care,1999-01-04,-81.8,1999-01-19,2000-05-26,2011-04-20,12.2,-3.2
+VLO,Valero Energy,Energy,1999-01-04,-81.5,2007-07-10,2008-11-20,2015-02-23,7.6,0.0
+TSN,Tyson Foods,Consumer Staples,1999-01-04,-81.5,2007-06-21,2008-11-20,2013-02-01,5.6,-36.8
+FISV,Fiserv,Financials,1999-01-04,-81.3,2025-03-03,2026-10-02,,,-80.4
+BAX,Baxter International,Health Care,1999-01-04,-81.2,2020-04-20,2026-03-30,,,-70.3
+TTWO,Take-Two Interactive,Communication Services,1999-01-04,-80.9,2005-06-14,2009-03-03,2015-01-22,9.6,-23.7
+XEL,Xcel Energy,Utilities,1999-01-04,-80.6,2001-04-26,2002-07-29,2007-02-02,5.8,-9.0
+OKE,Oneok,Energy,1999-01-04,-80.2,2020-02-20,2020-03-18,2022-02-11,2.0,-12.8
+WAT,Waters Corporation,Health Care,1999-01-04,-80.1,2000-09-28,2002-07-22,2011-04-21,10.6,-3.2
+ADBE,Adobe Inc.,Information Technology,1999-01-04,-79.9,2000-11-06,2002-08-05,2006-11-15,6.0,-65.7
+FICO,Fair Isaac,Information Technology,1999-01-04,-79.2,2005-11-22,2009-03-05,2012-11-01,6.9,-69.6
+NKE,"Nike, Inc.",Consumer Discretionary,1999-01-04,-79.0,2021-11-05,2026-10-02,,,-78.1
+WFC,Wells Fargo,Financials,1999-01-04,-79.0,2008-09-19,2009-03-05,2013-03-07,4.5,-14.9
+GS,Goldman Sachs,Financials,1999-05-04,-78.8,2007-10-31,2008-11-20,2016-12-01,9.1,-22.2
+MCO,Moody's Corporation,Financials,1999-01-04,-78.7,2007-02-08,2008-11-20,2013-05-21,6.3,-13.4
+HUM,Humana,Health Care,1999-01-04,-78.4,2008-01-14,2009-03-05,2011-11-03,3.8,-22.2
+LUV,Southwest Airlines,Industrials,1999-01-04,-78.3,2001-01-05,2009-03-05,2014-03-04,13.2,-31.1
+VTR,Ventas,Real Estate,1999-01-04,-78.2,1999-01-15,2000-03-15,2001-06-27,2.4,-16.1
+BBY,Best Buy,Consumer Discretionary,1999-01-04,-78.2,2006-04-06,2012-12-28,2016-11-17,10.6,-19.5
+ARE,Alexandria Real Estate Equities,Real Estate,1999-01-04,-78.0,2021-12-30,2026-04-28,,,-75.4
+BA,Boeing,Industrials,1999-01-04,-77.9,2019-03-01,2020-03-20,,,-56.6
+TT,Trane Technologies,Industrials,1999-01-04,-77.9,2007-07-18,2009-03-06,2013-01-25,5.5,-4.8
+WM,Waste Management,Industrials,1999-01-04,-77.8,1999-05-04,2000-03-28,2013-08-05,14.3,-13.0
+IT,Gartner,Information Technology,1999-01-04,-77.2,2024-11-13,2026-06-22,,,-64.3
+EOG,EOG Resources,Energy,1999-01-04,-77.2,2018-10-09,2020-03-18,2022-03-07,3.4,-0.4
+DECK,Deckers Brands,Consumer Discretionary,1999-01-04,-77.1,2007-12-26,2009-03-02,2010-06-18,2.5,-62.3
+ALL,Allstate,Financials,1999-01-04,-77.1,2006-12-27,2009-03-09,2013-10-17,6.8,-13.7
+SPG,Simon Property Group,Real Estate,1999-01-04,-77.0,2016-08-01,2020-04-02,2024-03-13,7.6,-14.3
+ADSK,Autodesk,Information Technology,1999-01-04,-76.9,2007-12-26,2009-03-09,2014-01-09,6.0,-32.7
+STE,Steris,Health Care,1999-01-04,-76.9,1999-03-08,2000-07-25,2008-07-30,9.4,-18.2
+HSIC,Henry Schein,Health Care,1999-01-04,-76.7,1999-01-08,1999-12-23,2002-04-11,3.3,-7.5
+PNC,PNC Financial Services,Financials,1999-01-04,-76.7,2008-09-19,2009-03-06,2013-07-02,4.8,-14.6
+NEM,Newmont,Materials,1999-01-04,-76.6,2011-11-07,2015-09-23,2020-04-22,8.5,-14.3
+BIIB,Biogen,Health Care,1999-01-04,-76.2,2015-03-20,2025-04-10,,,-51.8
+TSCO,Tractor Supply,Consumer Discretionary,1999-01-04,-76.1,1999-05-28,2000-11-21,2001-11-09,2.5,-44.9
+USB,U.S. Bancorp,Financials,1999-01-04,-76.1,2008-09-19,2009-03-06,2012-10-04,4.0,-12.2
+VMC,Vulcan Materials Company,Materials,1999-01-04,-76.1,2007-04-30,2011-10-03,2016-04-20,9.0,-25.9
+ROK,Rockwell Automation,Industrials,1999-01-04,-75.9,2006-04-24,2009-03-05,2010-12-10,4.6,-12.4
+WY,Weyerhaeuser,Real Estate,1999-01-04,-75.7,2007-03-06,2009-03-06,2012-10-17,5.6,-47.5
+CMI,Cummins,Industrials,1999-01-04,-75.7,2008-06-16,2008-11-20,2010-04-27,1.9,-27.0
+MAR,Marriott International,Consumer Discretionary,1999-01-04,-75.6,2007-04-18,2008-11-20,2013-11-01,6.5,-7.5
+GL,Globe Life,Financials,1999-01-04,-75.3,2007-05-30,2009-03-06,2011-04-01,3.8,-10.6
+CPT,Camden Property Trust,Real Estate,1999-01-04,-75.3,2006-10-18,2009-03-02,2011-05-27,4.6,-34.7
+SPGI,S&P Global,Financials,1999-01-04,-74.7,2007-06-04,2009-03-09,2013-07-15,6.1,-22.4
+UDR,"UDR, Inc.",Real Estate,1999-01-04,-74.7,2007-02-20,2009-03-20,2011-04-25,4.2,-32.2
+UNH,UnitedHealth Group,Health Care,1999-01-04,-74.4,2005-12-21,2008-11-20,2013-04-02,7.3,-36.7
+HAS,Hasbro,Consumer Discretionary,1999-01-04,-74.4,1999-05-03,2000-12-07,2007-05-02,8.0,-7.4
+TECH,Bio-Techne,Health Care,1999-01-04,-74.4,2000-07-03,2003-04-07,2008-05-12,7.9,-44.9
+J,Jacobs Solutions,Industrials,1999-01-04,-74.1,2008-01-03,2008-11-20,2020-02-12,12.1,-12.6
+JPM,JPMorgan Chase,Financials,1999-01-04,-74.0,2000-03-23,2002-10-09,2007-01-31,6.9,-8.8
+NDSN,Nordson Corporation,Industrials,1999-01-04,-73.6,2008-07-22,2009-03-09,2010-10-15,2.2,-1.1
+MCD,McDonald's,Consumer Discretionary,1999-01-04,-73.6,1999-11-12,2003-03-12,2006-12-08,7.1,-29.5
+MTB,M&T Bank,Financials,1999-01-04,-73.5,2007-02-20,2009-03-05,2012-10-17,5.7,-13.7
+CAT,Caterpillar Inc.,Industrials,1999-01-04,-73.4,2007-07-19,2009-03-02,2010-09-24,3.2,-27.3
+ZBRA,Zebra Technologies,Information Technology,1999-01-04,-73.4,2004-09-24,2009-03-09,2014-02-19,9.4,-37.1
+JKHY,Jack Henry & Associates,Financials,1999-01-04,-73.4,2001-07-13,2002-10-09,2010-12-02,9.4,-23.2
+REG,Regency Centers,Real Estate,1999-01-04,-73.4,2007-02-07,2009-03-06,2014-12-22,7.9,-12.4
+DE,Deere & Company,Industrials,1999-01-04,-73.3,2008-01-14,2009-03-02,2011-01-13,3.0,-8.2
+TPL,Texas Pacific Land Corporation,Energy,1999-01-04,-73.1,2007-06-29,2009-03-09,2012-05-07,4.9,-35.3
+AVY,Avery Dennison,Materials,1999-01-04,-73.0,2007-01-23,2009-03-09,2015-02-17,8.1,-22.1
+CSGP,CoStar Group,Real Estate,1999-01-04,-73.0,2021-10-26,2026-09-29,,,-69.9
+TKO,TKO Group Holdings,Communication Services,1999-10-19,-72.8,1999-10-19,2002-10-16,2010-02-25,10.4,-21.8
+BEN,Franklin Resources,Financials,1999-01-04,-72.8,2007-07-17,2009-03-06,2011-07-07,4.0,-12.0
+BXP,"BXP, Inc.",Real Estate,1999-01-04,-72.8,2007-02-07,2009-03-05,2011-05-31,4.3,-43.2
+DRI,Darden Restaurants,Consumer Discretionary,1999-01-04,-72.8,2019-09-09,2020-03-18,2021-01-11,1.3,-8.9
+CPRT,Copart,Industrials,1999-01-04,-72.5,2001-12-26,2003-03-11,2004-06-28,2.5,-58.7
+INTU,Intuit,Information Technology,1999-01-04,-72.5,2000-01-10,2001-04-03,2010-08-20,10.6,-62.1
+COHR,Coherent Corp.,Information Technology,1999-01-04,-72.2,2021-02-11,2023-05-16,2024-10-11,3.7,-32.1
+EIX,Edison International,Utilities,1999-01-04,-72.2,2000-02-03,2002-10-09,2004-10-12,4.7,-29.8
+DUK,Duke Energy,Utilities,1999-01-04,-71.9,2001-04-26,2003-03-10,2007-04-02,5.9,-9.9
+CTSH,Cognizant,Information Technology,1999-01-04,-71.4,2000-03-28,2001-10-08,2002-11-04,2.6,-30.0
+FDX,FedEx,Industrials,1999-01-04,-71.4,2007-02-23,2009-03-09,2013-09-19,6.6,-14.0
+SWK,Stanley Black & Decker,Industrials,1999-01-04,-71.3,2021-05-10,2025-04-08,,,-50.2
+PGR,Progressive Corporation,Financials,1999-01-04,-71.1,1999-01-11,2000-03-13,2002-04-02,3.2,-18.4
+COR,Cencora,Health Care,1999-01-04,-71.0,1999-01-21,1999-12-03,2000-09-22,1.7,-11.3
+COP,ConocoPhillips,Energy,1999-01-04,-70.7,2018-10-01,2020-03-18,2021-10-08,3.0,-0.2
+BMY,Bristol Myers Squibb,Health Care,1999-01-04,-70.6,1999-10-28,2002-07-24,2013-05-15,13.5,-16.7
+EME,Emcor,Industrials,1999-01-04,-70.6,2007-07-17,2008-11-20,2013-02-12,5.6,-17.7
+HD,Home Depot (The),Consumer Discretionary,1999-01-04,-70.5,1999-12-31,2009-03-06,2012-08-14,12.6,-28.7
+HON,Honeywell Technologies,Industrials,1999-01-04,-70.1,1999-06-21,2002-10-09,2007-05-11,7.9,-19.6
+GEN,Gen Digital,Information Technology,1999-01-04,-70.0,2004-12-03,2008-11-20,2016-09-06,11.8,-24.2
+RJF,Raymond James Financial,Financials,1999-01-04,-69.7,2008-09-19,2009-03-06,2011-02-01,2.4,-13.2
+MSFT,Microsoft,Information Technology,1999-01-04,-69.4,1999-12-27,2009-03-09,2014-07-16,14.6,0.0
+PFE,Pfizer,Health Care,1999-01-04,-69.3,1999-04-12,2009-03-02,2013-11-13,14.6,-40.2
+CSX,CSX Corporation,Industrials,1999-01-04,-69.2,2008-05-30,2009-03-09,2011-01-03,2.6,-10.0
+MNST,Monster Beverage,Consumer Staples,1999-01-04,-69.2,2007-10-18,2008-10-27,2011-05-19,3.6,-13.4
+ETN,Eaton Corporation,Industrials,1999-01-04,-69.0,2007-07-23,2009-03-09,2010-11-04,3.3,-6.9
+BF-B,Brown–Forman,Consumer Staples,1999-01-04,-69.0,2020-11-24,2026-03-24,,,-62.2
+MRK,Merck & Co.,Health Care,1999-01-04,-68.6,2000-12-28,2009-03-09,2014-02-07,13.1,-8.7
+RL,Ralph Lauren Corporation,Consumer Discretionary,1999-01-04,-68.6,2007-07-06,2009-03-09,2010-11-08,3.3,-9.3
+NUE,Nucor,Materials,1999-01-04,-68.3,2008-05-16,2008-11-20,2016-11-22,8.5,-7.4
+LLY,Lilly (Eli),Health Care,1999-01-04,-68.3,2000-08-08,2009-03-05,2014-11-04,14.2,-8.9
+ADM,Archer Daniels Midland,Consumer Staples,1999-01-04,-68.0,2008-04-21,2008-10-09,2013-12-18,5.7,-5.6
+CMCSA,Comcast,Communication Services,1999-01-04,-67.9,1999-12-23,2009-03-09,2012-08-01,12.6,-56.9
+DIS,Walt Disney Company (The),Communication Services,1999-01-04,-67.9,2000-04-28,2002-08-13,2011-01-04,10.7,-44.5
+WAB,Wabtec,Industrials,1999-01-04,-67.8,1999-06-30,2000-10-18,2005-08-19,6.1,-6.2
+NTRS,Northern Trust,Financials,1999-01-04,-67.7,2000-12-07,2003-03-11,2008-07-22,7.6,-12.1
+YUM,Yum! Brands,Consumer Discretionary,1999-01-04,-67.7,1999-04-01,2000-07-28,2004-02-26,4.9,-11.8
+MRSH,Marsh McLennan,Financials,1999-01-04,-67.5,2000-10-05,2009-03-02,2013-11-15,13.1,-25.3
+TROW,T. Rowe Price,Financials,1999-01-04,-67.4,2008-09-19,2009-03-05,2010-12-07,2.2,-43.0
+VMRK,Vivmark Residential,Real Estate,1999-01-04,-67.4,2007-02-06,2009-03-05,2010-05-12,3.3,-20.8
+DLTR,Dollar Tree,Consumer Staples,1999-01-04,-67.1,2000-07-12,2001-03-21,2009-08-26,9.1,-33.1
+PH,Parker Hannifin,Industrials,1999-01-04,-66.9,2008-05-13,2009-03-09,2010-11-24,2.5,-11.1
+KR,Kroger,Consumer Staples,1999-01-04,-66.8,1999-03-18,2002-10-09,2013-03-08,14.0,-18.6
+TFC,Truist Financial,Financials,1999-01-04,-66.6,2008-09-19,2009-03-05,2013-07-05,4.8,-15.2
+AON,Aon plc,Financials,1999-01-04,-66.4,2001-10-03,2002-08-08,2006-03-01,4.4,-32.3
+PCAR,Paccar,Industrials,1999-01-04,-66.2,2007-07-18,2009-03-09,2013-07-11,6.0,-21.7
+TDY,Teledyne Technologies,Information Technology,1999-11-23,-66.1,2008-07-25,2009-03-09,2012-04-27,3.8,-11.6
+EVRG,Evergy,Utilities,1999-01-04,-66.0,1999-01-05,2002-11-07,2004-11-16,5.9,-6.1
+NVR,"NVR, Inc.",Consumer Discretionary,1999-01-04,-65.9,2005-07-28,2009-03-03,2012-12-17,7.4,-41.7
+IFF,International Flavors & Fragrances,Materials,1999-01-04,-65.9,1999-07-21,2000-10-25,2004-11-12,5.3,-35.3
+SNA,Snap-on,Industrials,1999-01-04,-65.8,2008-05-30,2009-03-05,2010-12-16,2.5,-12.8
+NI,NiSource,Utilities,1999-01-04,-65.8,2007-05-18,2009-03-05,2011-05-10,4.0,-14.9
+CRH,CRH plc,Materials,1999-01-04,-65.6,2007-07-09,2011-09-22,2017-01-25,9.5,-38.3
+L,Loews Corporation,Financials,1999-01-04,-65.6,2007-06-19,2009-03-09,2017-11-06,10.4,-9.1
+ORLY,O'Reilly Automotive,Consumer Discretionary,1999-01-04,-65.4,1999-07-20,2000-03-08,2001-06-15,1.9,-20.2
+CTAS,Cintas,Industrials,1999-01-04,-65.3,2002-05-14,2009-03-09,2013-08-08,11.2,-8.3
+NSC,Norfolk Southern,Industrials,1999-01-04,-65.2,1999-05-07,2000-10-23,2004-10-21,5.5,-9.0
+STZ,Constellation Brands,Consumer Staples,1999-01-04,-65.0,2005-06-28,2008-11-12,2012-08-15,7.1,-50.5
+PAYX,Paychex,Industrials,1999-01-04,-64.8,2000-11-21,2002-08-12,2013-10-21,12.9,-30.0
+BNY,BNY Mellon,Financials,1999-01-04,-64.7,2000-11-07,2009-03-09,2016-11-09,16.0,-14.4
+TGT,Target Corporation,Consumer Staples,1999-01-04,-64.4,2021-11-16,2025-11-20,,,-33.6
+CVS,CVS Health,Health Care,1999-01-04,-64.1,2001-03-08,2003-01-30,2005-07-08,4.3,-20.3
+MO,Altria,Consumer Staples,1999-01-04,-63.9,1999-01-11,2000-02-14,2001-03-02,2.1,-3.0
+T,AT&T,Communication Services,1999-01-04,-63.9,2000-11-22,2003-03-11,2007-05-15,6.5,-18.7
+MCHP,Microchip Technology,Information Technology,1999-01-04,-63.8,2024-05-22,2025-04-08,2026-05-04,1.9,-27.4
+MLM,Martin Marietta Materials,Materials,1999-01-04,-63.7,2007-06-21,2008-11-20,2015-05-04,7.9,-33.0
+APH,Amphenol,Information Technology,1999-01-04,-63.4,2008-08-15,2008-11-20,2010-11-04,2.2,-3.1
+SYY,Sysco,Consumer Staples,1999-01-04,-63.4,2019-12-30,2020-03-18,2021-03-12,1.2,-11.4
+WELL,Welltower,Real Estate,1999-01-04,-63.3,2019-09-04,2020-03-18,2021-07-09,1.8,-8.4
+RSG,Republic Services,Industrials,1999-01-04,-63.3,1999-07-01,1999-10-21,2003-11-26,4.4,-13.3
+LH,Labcorp,Health Care,1999-01-04,-63.1,2002-05-10,2002-10-08,2005-11-29,3.6,-7.4
+PPG,PPG Industries,Materials,1999-01-04,-63.0,2007-07-23,2009-03-05,2010-09-28,3.2,-35.9
+AEP,American Electric Power,Utilities,1999-01-04,-62.8,2001-05-24,2002-10-09,2006-10-10,5.4,-8.7
+LII,Lennox International,Industrials,1999-07-29,-62.7,1999-07-30,2000-12-04,2002-05-23,2.8,-47.3
+ESS,Essex Property Trust,Real Estate,1999-01-04,-62.7,2007-02-08,2009-03-02,2011-02-28,4.1,-10.2
+XOM,ExxonMobil,Energy,1999-01-04,-62.4,2014-07-28,2020-03-23,2022-01-25,7.5,0.0
+EXC,Exelon,Utilities,1999-01-04,-62.2,2008-07-10,2014-01-03,2021-11-01,13.3,-14.2
+AOS,A. O. Smith,Industrials,1999-01-04,-62.1,1999-07-20,2000-09-22,2002-04-24,2.8,-34.1
+CAH,Cardinal Health,Health Care,1999-01-04,-62.0,2001-06-20,2008-11-20,2013-06-18,12.0,-3.4
+LMT,Lockheed Martin,Industrials,1999-01-04,-61.6,1999-05-03,2000-03-14,2001-09-17,2.4,-24.6
+RMD,ResMed|,Health Care,1999-01-04,-61.6,1999-01-25,1999-04-08,2000-01-21,1.0,-19.2
+MTD,Mettler Toledo,Health Care,1999-01-04,-61.4,2007-12-10,2009-03-12,2010-04-29,2.4,-6.1
+OMC,Omnicom Group,Communication Services,1999-01-04,-61.2,1999-12-17,2002-07-01,2006-10-24,6.9,-19.8
+FDS,FactSet,Financials,1999-01-04,-61.1,2024-11-14,2026-02-17,,,-39.7
+DOC,Healthpeak Properties,Real Estate,1999-01-04,-61.0,2008-09-18,2008-11-20,2010-08-02,1.9,-32.0
+GD,General Dynamics,Industrials,1999-01-04,-61.0,2008-08-12,2009-03-09,2013-07-11,4.9,-15.6
+SNPS,Synopsys,Information Technology,1999-01-04,-60.9,2004-01-26,2008-11-20,2013-07-12,9.5,-23.3
+TJX,TJX Companies,Consumer Discretionary,1999-01-04,-60.9,1999-04-12,2000-02-25,2001-08-10,2.3,-15.7
+ERIE,Erie Indemnity,Financials,1999-01-04,-60.9,2024-09-24,2026-06-03,,,-55.9
+LOW,Lowe's,Consumer Discretionary,1999-01-04,-60.6,2007-02-23,2009-03-06,2012-05-02,5.2,-33.7
+AEE,Ameren,Utilities,1999-01-04,-60.6,2007-12-24,2009-03-09,2014-02-21,6.2,-11.2
+BLK,BlackRock,Financials,1999-10-01,-60.4,2008-08-11,2009-03-03,2009-10-14,1.2,-9.5
+MAA,Mid-America Apartment Communities,Real Estate,1999-01-04,-60.3,2006-10-16,2009-03-05,2010-03-17,3.4,-39.0
+APD,Air Products,Materials,1999-01-04,-60.3,2008-06-05,2008-11-20,2011-07-07,3.1,-10.6
+AMGN,Amgen,Health Care,1999-01-04,-60.2,2000-07-21,2002-07-15,2005-07-20,5.0,-7.0
+HUBB,Hubbell Incorporated,Industrials,1999-01-04,-59.7,2007-12-10,2009-03-09,2010-10-13,2.8,-13.8
+CINF,Cincinnati Financial,Financials,1999-01-04,-59.7,2006-10-18,2009-03-09,2012-06-19,5.7,-13.3
+GILD,Gilead Sciences,Health Care,1999-01-04,-59.7,1999-09-07,1999-12-20,2000-08-21,1.0,-3.3
+GIS,General Mills,Consumer Staples,1999-01-04,-59.6,2023-05-12,2026-06-03,,,-59.3
+UNP,Union Pacific Corporation,Industrials,1999-01-04,-59.4,2008-08-29,2009-03-09,2010-09-20,2.1,-8.7
+ADP,Automatic Data Processing,Industrials,1999-01-04,-59.4,2000-11-20,2003-03-13,2011-03-09,10.3,-12.2
+WST,West Pharmaceutical Services,Health Care,1999-01-04,-59.3,2021-12-30,2025-04-08,,,-20.1
+IBM,IBM,Information Technology,1999-01-04,-59.3,1999-07-13,2002-10-09,2008-05-14,8.8,-29.4
+HRL,Hormel Foods,Consumer Staples,1999-01-04,-59.2,2022-04-21,2026-10-09,,,-59.1
+MMM,3M,Industrials,1999-01-04,-59.1,2018-01-26,2023-10-23,2025-10-21,7.7,-11.0
+PNR,Pentair,Industrials,1999-01-04,-59.0,2005-05-18,2009-03-09,2011-07-01,6.1,-52.4
+CLX,Clorox,Consumer Staples,1999-01-04,-58.8,2020-08-04,2026-10-02,,,-56.7
+NOC,Northrop Grumman,Industrials,1999-01-04,-58.7,2007-11-06,2008-11-20,2011-06-29,3.6,-36.8
+IEX,IDEX Corporation,Industrials,1999-01-04,-58.7,2007-08-09,2009-03-09,2010-12-03,3.3,-1.1
+SYK,Stryker Corporation,Health Care,1999-01-04,-58.6,2007-12-26,2009-03-09,2013-09-17,5.7,-29.1
+JBHT,J.B. Hunt,Industrials,1999-01-04,-58.6,1999-02-03,2000-10-12,2002-01-04,2.9,-23.1
+DOV,Dover Corporation,Industrials,1999-01-04,-58.2,2008-05-30,2009-03-09,2010-04-23,1.9,-16.9
+EXPD,Expeditors International,Industrials,1999-01-04,-58.0,2006-07-03,2009-03-09,2010-12-07,4.4,0.0
+UPS,United Parcel Service,Industrials,1999-11-10,-58.0,2022-02-02,2025-09-25,,,-48.6
+MDT,Medtronic,Health Care,1999-01-04,-57.6,2006-01-19,2009-03-09,2013-05-21,7.3,-18.8
+FRT,Federal Realty Investment Trust,Real Estate,1999-01-04,-57.4,2007-10-05,2009-03-02,2011-02-28,3.4,-15.9
+IDXX,Idexx Laboratories,Health Care,1999-01-04,-57.3,2007-11-15,2008-11-20,2010-04-23,2.4,-32.1
+CB,Chubb Limited,Financials,1999-01-04,-57.2,1999-05-13,2000-03-07,2000-07-27,1.2,-4.5
+LHX,L3Harris,Industrials,1999-01-04,-57.0,2008-05-30,2009-04-20,2013-07-30,5.2,-37.2
+EFX,Equifax,Industrials,1999-01-04,-56.9,2007-07-12,2009-03-09,2012-03-26,4.7,-50.4
+VZ,Verizon,Communication Services,1999-01-04,-56.8,1999-10-04,2002-09-30,2011-03-29,11.5,-14.1
+UHS,Universal Health Services,Health Care,1999-01-04,-56.8,1999-05-11,1999-09-24,2000-04-25,1.0,-26.3
+GWW,W. W. Grainger,Industrials,1999-01-04,-56.8,1999-06-17,2000-10-17,2002-02-26,2.7,-5.3
+WRB,W. R. Berkley Corporation,Financials,1999-01-04,-56.3,1999-01-06,2000-03-08,2000-09-26,1.7,-3.6
+EMR,Emerson Electric,Industrials,1999-01-04,-56.1,2008-06-05,2009-03-09,2010-10-21,2.4,-0.2
+BRO,Brown & Brown,Financials,1999-01-04,-55.8,2025-04-03,2026-05-13,,,-47.9
+PSA,Public Storage,Real Estate,1999-01-04,-55.8,2007-02-08,2009-03-05,2010-09-03,3.6,-15.2
+CVX,Chevron Corporation,Energy,1999-01-04,-55.8,2019-07-24,2020-03-23,2021-10-20,2.2,-0.0
+FE,FirstEnergy,Utilities,1999-01-04,-55.8,2008-07-11,2009-03-13,2019-09-25,11.2,-11.1
+IRM,Iron Mountain,Real Estate,1999-01-04,-55.7,2007-12-26,2009-03-03,2012-10-11,4.8,-13.2
+PPL,PPL Corporation,Utilities,1999-01-04,-55.4,2001-05-23,2002-07-23,2005-02-01,3.7,-11.6
+BALL,Ball Corporation,Materials,1999-01-04,-55.1,2021-09-02,2023-10-23,,,-35.0
+TRV,Travelers Companies (The),Financials,1999-01-04,-55.1,2000-12-08,2002-07-25,2006-10-04,5.8,-5.7
+GPC,Genuine Parts Company,Consumer Discretionary,1999-01-04,-54.9,2019-04-05,2020-03-23,2021-03-02,1.9,-21.9
+ITW,Illinois Tool Works,Industrials,1999-01-04,-54.9,2007-10-12,2009-03-05,2011-01-12,3.3,-9.8
+PEG,Public Service Enterprise Group,Utilities,1999-01-04,-54.3,2001-05-31,2002-10-17,2004-01-22,2.6,-20.5
+ROL,"Rollins, Inc.",Industrials,1999-01-04,-54.2,2026-02-11,2026-10-05,,,-50.4
+PG,Procter & Gamble,Consumer Staples,1999-01-04,-54.2,2000-01-11,2000-03-10,2004-05-06,4.3,-10.6
+TMO,Thermo Fisher Scientific,Health Care,1999-01-04,-53.9,2008-08-15,2008-11-20,2011-05-18,2.8,-2.4
+BRK-B,Berkshire Hathaway,Financials,1999-01-04,-53.9,2007-12-10,2009-03-05,2013-02-19,5.2,-3.6
+ACGL,Arch Capital Group,Financials,1999-01-04,-53.8,2020-02-19,2020-05-13,2022-02-08,2.0,-11.3
+COST,Costco,Consumer Staples,1999-01-04,-53.4,2000-05-01,2002-12-24,2006-07-03,6.2,-12.6
+AME,Ametek,Industrials,1999-01-04,-53.3,2008-06-05,2009-03-02,2010-10-26,2.4,-3.0
+PNW,Pinnacle West Capital,Utilities,1999-01-04,-53.3,2000-10-02,2002-10-09,2004-11-03,4.1,-6.3
+MKC,McCormick & Company,Consumer Staples,1999-01-04,-53.1,2022-04-21,2026-10-01,,,-52.5
+ROST,Ross Stores,Consumer Discretionary,1999-01-04,-52.7,1999-07-21,2000-01-19,2001-08-10,2.1,-11.4
+RTX,RTX Corporation,Industrials,1999-01-04,-52.7,2007-10-01,2009-03-09,2010-11-05,3.1,-18.8
+DTE,DTE Energy,Utilities,1999-01-04,-52.6,2007-05-22,2009-03-09,2010-04-06,2.9,-16.1
+D,Dominion Energy,Utilities,1999-01-04,-52.2,2022-04-08,2023-10-23,,,-13.3
+FAST,Fastenal,Industrials,1999-01-04,-52.0,2008-09-16,2009-03-09,2010-04-15,1.6,-1.8
+ATO,Atmos Energy,Utilities,1999-01-04,-51.9,1999-01-04,2000-04-24,2004-01-21,5.0,-14.0
+LIN,Linde plc,Materials,1999-01-04,-51.8,2008-06-23,2008-11-20,2010-12-20,2.5,-9.7
+CASY,Casey's,Consumer Staples,1999-01-04,-51.6,1999-07-16,2000-03-07,2003-11-07,4.3,-29.9
+LNT,Alliant Energy,Utilities,1999-01-04,-51.6,2007-04-25,2009-03-09,2011-02-10,3.8,-13.6
+ODFL,Old Dominion,Industrials,1999-01-04,-50.9,2006-07-03,2009-03-09,2010-07-28,4.1,-26.2
+CHD,Church & Dwight,Consumer Staples,1999-01-04,-50.7,1999-11-16,2000-03-14,2002-01-24,2.2,-9.8
+ROP,Roper Technologies,Information Technology,1999-01-04,-50.1,2007-10-31,2008-11-20,2010-10-22,3.0,-37.1
+ETR,Entergy,Utilities,1999-01-04,-50.0,2008-01-09,2009-03-13,2017-10-12,9.8,-10.0
+DGX,Quest Diagnostics,Health Care,1999-01-04,-49.5,2002-05-03,2003-02-14,2004-12-01,2.6,-6.5
+AJG,Arthur J. Gallagher & Co.,Financials,1999-01-04,-49.2,2001-10-24,2009-03-03,2010-10-14,9.0,-32.1
+HSY,Hershey Company (The),Consumer Staples,1999-01-04,-49.2,2005-05-16,2009-03-10,2011-04-15,5.9,-34.8
+O,Realty Income,Real Estate,1999-01-04,-48.4,2008-09-18,2009-03-06,2010-01-08,1.3,-16.1
+NEE,NextEra Energy,Utilities,1999-01-04,-47.8,2007-12-05,2008-10-10,2012-04-04,4.3,-18.9
+ED,Consolidated Edison,Utilities,1999-01-04,-46.9,1999-01-04,2000-02-25,2002-05-02,3.3,-5.1
+BDX,Becton Dickinson,Health Care,1999-01-04,-46.9,1999-01-04,2000-09-26,2003-12-29,5.0,-10.2
+EG,Everest Group,Financials,1999-01-04,-46.7,2007-10-10,2009-03-05,2012-05-11,4.6,-5.5
+DHR,Danaher Corporation,Health Care,1999-01-04,-45.8,1999-04-27,2000-03-08,2000-12-11,1.6,-22.3
+ABT,Abbott Laboratories,Health Care,1999-01-04,-45.7,2002-01-31,2002-07-23,2005-01-07,2.9,-24.4
+SHW,Sherwin-Williams,Materials,1999-01-04,-45.5,1999-04-29,2000-01-28,2002-04-11,3.0,-17.6
+SRE,Sempra,Utilities,1999-01-04,-45.0,2020-01-30,2020-03-16,2022-03-04,2.1,-16.1
+KO,Coca-Cola Company (The),Consumer Staples,1999-01-04,-44.3,1999-05-05,2003-03-10,2007-10-18,8.5,-1.5
+ECL,Ecolab,Materials,1999-01-04,-43.7,2021-12-29,2022-11-03,2024-03-22,2.2,-6.7
+ES,Eversource Energy,Utilities,1999-01-04,-43.1,2000-12-29,2002-10-09,2005-06-17,4.5,-16.1
+AZO,AutoZone,Consumer Discretionary,1999-01-04,-43.0,1999-02-22,2000-09-20,2001-06-15,2.3,-33.6
+CHRW,C.H. Robinson,Industrials,1999-01-04,-42.4,2008-05-06,2009-03-09,2010-07-28,2.2,-33.8
+SJM,J.M. Smucker Company (The),Consumer Staples,1999-01-04,-41.7,1999-07-21,2000-03-28,2000-11-15,1.3,-14.4
+WEC,WEC Energy Group,Utilities,1999-01-04,-41.6,1999-01-06,2000-03-08,2002-05-02,3.3,-10.1
+PEP,PepsiCo,Consumer Staples,1999-01-04,-40.4,2008-01-10,2009-03-09,2012-06-27,4.5,-26.6
+SO,Southern Company,Utilities,1999-01-04,-38.4,2020-01-30,2020-03-23,2021-08-16,1.5,-9.6
+WMT,Walmart,Consumer Staples,1999-01-04,-37.5,1999-12-27,2000-10-27,2011-11-08,11.9,-16.2
+KMB,Kimberly-Clark,Consumer Staples,1999-01-04,-36.9,2001-03-08,2003-03-10,2004-08-31,3.5,-28.6
+JNJ,Johnson & Johnson,Health Care,1999-01-04,-35.9,2002-03-19,2002-07-19,2004-12-16,2.7,-10.7
+CL,Colgate-Palmolive,Consumer Staples,1999-01-04,-34.1,1999-12-31,2000-03-10,2000-12-27,1.0,-13.4
