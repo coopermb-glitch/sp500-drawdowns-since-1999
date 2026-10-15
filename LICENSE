@@ -1,0 +1,19 @@
+S&P 500 drawdowns since 1999
+(drawdowns-since-1999.csv and drawdowns-1999-class.csv)
+Copyright 2026 PortfolioAutopsy
+
+These tables are made available under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+You are free to share and adapt the data for any purpose, including
+commercial use, as long as you give appropriate credit, link to the license,
+and indicate if changes were made.
+
+Suggested credit: PortfolioAutopsy, "S&P 500 drawdowns since 1999",
+https://portfolioautopsy.pages.dev/research/drawdowns-since-1999
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+The tables hold derived statistics only. The underlying daily prices come from
+Yahoo Finance and are not included or redistributed here. Figures for stocks
+that stopped trading come from price tables in public SEC filings.
